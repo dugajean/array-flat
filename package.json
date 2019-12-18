@@ -1,0 +1,16 @@
+{
+  "name": "array-flat",
+  "version": "1.0.0",
+  "main": "arrayFlat.js",
+  "author": "Dugaxhin Surdulli",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-jest": "^23.1.1",
+    "jest": "^24.9.0"
+  }
+}
